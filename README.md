@@ -1,4 +1,4 @@
-This project focuses on handling missing revenue data for the take home analysis task. Missing values were addressed using regression imputation, a method I have successfully applied in past projects. Given the importance of accurate and reliable data for financial decision-making, this approach provided an ideal solution in this scenario. The code ensures that negative revenue values, assumed to be input errors, are treated as nulls and appropriately imputed.
+This project focuses on handling missing revenue data for the take home analysis task. Missing values were addressed using regression imputation, a method I have used in past projects. Given the importance of accurate and reliable data for financial decision-making, this approach provided an ideal solution in this scenario. The code ensures that negative revenue values, assumed to be input errors, are treated as nulls and appropriately imputed.
 
 The script performs the following steps:
 
